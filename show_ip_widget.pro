@@ -22,8 +22,8 @@ FORMS    += mainwindow.ui
 DISTFILES +=
 
 # Target install path
-target.path = /usr/bin
-INSTALLS += target
+# target.path = /usr/bin
+# INSTALLS += target
 
 RESOURCES += \
     resources.qrc
